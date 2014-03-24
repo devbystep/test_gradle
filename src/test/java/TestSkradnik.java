@@ -8,7 +8,7 @@ public class TestSkradnik extends Assert 	{
 
 	@Test
 	public void testPrintUsers(){
-
+		Skradnik.printUsers();
 	}
 
 	@Test
