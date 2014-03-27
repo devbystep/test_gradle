@@ -3,8 +3,7 @@ import org.junit.Test;
 import org.junit.Ignore;
 import by.minsler.Skradnik;
 
-public class TestSkradnik extends Assert 	{
-
+public class TestSkradnik {
 
 	@Test
 	public void testPrintUsers(){
