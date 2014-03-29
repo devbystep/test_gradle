@@ -1,7 +1,7 @@
+package by.minsler;
+
 import org.junit.Assert;
 import org.junit.Test;
-import org.junit.Ignore;
-import by.minsler.Skradnik;
 
 public class TestSkradnik {
 
